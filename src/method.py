@@ -5,6 +5,10 @@
 The nature of method: function.
 
 method是临时对象，缓存method对象提升性能
+
+im_func:
+im_class
+im_self: 绑定的对象，也是方法的第一个参数
 """
 
 import timeit
